@@ -99,3 +99,26 @@ For any inquiries or issues, please contact [drahulsingh](https://github.com/dra
 ---
 
 Feel free to join these communities and enhance your Python journey! If you know of any other great Discord servers for Python, let me know. Happy coding! 🎉
+
+## Tags
+
+- Python
+- Discord
+- Community
+- Programming
+- Development
+- Code
+- Software
+- Learning
+- Support
+- Collaboration
+- Help
+- Tutorials
+- Networking
+- Pythonista
+- Coding
+- Education
+- Developers
+- Resources
+- Events
+- Open Source
